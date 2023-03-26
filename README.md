@@ -1,2 +1,1 @@
-# stack_cal
-A calculator that support plus minus multiply and divide operation ,you can also use brackets to show the priority!
+支持加减乘除以及括号的运算的简单计算器，栈实现，搭配头文件使用更佳。
